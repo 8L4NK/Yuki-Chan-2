@@ -1,6 +1,6 @@
 # Yuki Chan The Auto Pentest
 
-![SS](http://www.yeahhub.com/wp-content/uploads/2017/09/Yuki-Chan-Automated-Pentest-tool-322x230.png)
+![SS](https://raw.githubusercontent.com/s1l3nt78/Yuki-Chan-2/master/Screenshot/Screenshot%20from%202017-09-11%2016_05_06.png)
 
 The Yuki Chan is an Automated Penetration Testing tool this tool will auditing all standard security test method for you.
 
