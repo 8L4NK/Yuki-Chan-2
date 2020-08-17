@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sudo chmod +x Module --recursive
+sudo chmod +x wafninja joomscan yuki.sh
+sudo cp yuki1 yukirun.sh
+sudo chmod +x yukirun.sh
+sudo ./yukirun.sh 
