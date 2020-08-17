@@ -23,12 +23,12 @@ Thank you and happy pentest
 # Change Log
 
   - Version 1.0
-  + Very First Release
+  > Very First Release
   > Yukinoshita47
 
   - Version 2
   > Updated Module Tools 
-  * s1l3nt78
+  > s1l3nt78
 
 # Feature
 - Automated 
