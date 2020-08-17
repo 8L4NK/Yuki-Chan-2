@@ -24,10 +24,12 @@ Thank you and happy pentest
 
   - Version 1.0
   > Very First Release
+  
   > Yukinoshita47
 
   - Version 2
-  > Updated Module Tools 
+  > Updated Module Tools
+  
   > s1l3nt78
 
 # Feature
