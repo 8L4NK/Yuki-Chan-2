@@ -21,13 +21,14 @@ By using this tool you agree that
 Thank you and happy pentest                                                             
 
 # Change Log
-- Version 1.0
-> Very First Release
-* Yukinoshita47
 
-- Version 2
-> Updated Module Tools 
-* s1l3nt78
+  - Version 1.0
+  + Very First Release
+  > Yukinoshita47
+
+  - Version 2
+  > Updated Module Tools 
+  * s1l3nt78
 
 # Feature
 - Automated 
