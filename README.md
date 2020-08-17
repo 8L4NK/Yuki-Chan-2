@@ -23,8 +23,11 @@ Thank you and happy pentest
 # Change Log
 - Version 1.0
 > Very First Release
+* Yukinoshita47
 
-> Packaged Release ![Here](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest/releases/tag/v1.0)
+- Version 2
+> Updated Module Tools 
+* s1l3nt78
 
 # Feature
 - Automated 
@@ -69,9 +72,6 @@ so Are You Ready ??
 
 Let's Start It
 
-# Install Without Git Clone Command From Your Terminal
-
-Yuki Chan Package v1.0 : ![Click Here](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest/releases/tag/v1.0)
 
 # Install From Git Clone Follow This Instruction Below
 
