@@ -185,9 +185,11 @@ echo "╔═══════════════════════�
 echo "║                   Scan Joomla Starting                         ║"              
 echo "╚════════════════════════════════════════════════════════════════╝"
 echo "start scanning"
-./joomscan -u http://$TARGET
+./joomscan -u http://$TARGET >> ${TARGET}_joom.txt
+echo -e "Joomscan Results saved to ${TARGET}_joom.txt in /root/yuki2"
 joomscan -u http://$TARGET
-droopescan scan joomla -u http://$TARGET
+droopescan scan joomla -u http://$TARGET >> ${TARGET}_droop.txt
+echo -e "Droopscan Results saved to ${TARGET}_droop.txt in /root/yuki2"
 echo "╔════════════════════════════════════════════════════════════════╗"
 echo "║                   Scan Joomla Finished                         ║"              
 echo "╚════════════════════════════════════════════════════════════════╝"
