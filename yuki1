@@ -247,6 +247,7 @@ echo "╔═══════════════════════�
 echo "║                   Fuzz Scanning Starting                       ║"              
 echo "╚════════════════════════════════════════════════════════════════╝"
 echo "starting fuzzing with waf ninja"
+chmod +x wafninja
 wafninja fuzz -u "http://$TARGET/index.php?id=FUZZ" -c "phpsessid=value" -t xss -o output.html
 echo "fuzzing finished"
 echo ""
